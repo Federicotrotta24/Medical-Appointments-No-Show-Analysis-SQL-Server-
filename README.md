@@ -18,7 +18,14 @@ The goal is to identify key drivers of missed appointments and provide actionabl
 - SQL Server  
 - Data Cleaning  
 - Data Quality Analysis  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+
+## 🐳 Environment Setup
+
+This project was developed using **SQL Server running on Docker**.
+
+This setup allowed for a reproducible and isolated environment, simulating a real-world data engineering workflow.
+
 
 ---
 
